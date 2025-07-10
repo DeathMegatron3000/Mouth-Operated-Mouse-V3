@@ -119,7 +119,10 @@ Once the Arduino sketch is uploaded and the Python application is running, you c
 
 *  **There is no need to print the CZFA_FlexFrame_PhoneMount.stl, as that is a phone stand, instead, you are connecting the screw that was suppose to join the phone holder and the arm/stand to the casing instead
 
+## Link for video guides:
 
+* Hardware: https://youtu.be/UBpAdc31Nfw
+* Software: https://youtu.be/A-l-xfMGubU
 
 ## Contributing
 
