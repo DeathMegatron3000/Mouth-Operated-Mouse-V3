@@ -124,6 +124,11 @@ Once the Arduino sketch is uploaded and the Python application is running, you c
 * Hardware: https://youtu.be/UBpAdc31Nfw
 * Software: https://youtu.be/A-l-xfMGubU
 
+## 🛠️ OSHWA Certification
+
+This hardware project is certified by the [Open Source Hardware Association (OSHWA)](https://www.oshwa.org/).
+
+**Certification UID**: [AU000021](https://certification.oshwa.org/au000021.html)
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
