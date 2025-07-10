@@ -44,6 +44,7 @@ This project creates a mouth-operated mouse combining a pressure sensor for sip/
     *   Basic soldering stuff, wires, solder, flux (Cost varies, estimated around 2 to 3 AUD for me)
     *   USB to USB-C cable for Arduino (~$0.73 AUD)
     *   1 micro farad capacitor (~$0.16 AUD)
+    *   DIP14 PCB Adapter Plate (~$0.55 AUD)
     
 **Estimated Total Cost:** Approximately $45 AUD not including shipping, cost varies from country to country
 
